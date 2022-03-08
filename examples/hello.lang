@@ -1,1 +1,3 @@
-OK
+fn main() {
+	write "Hello, World!\n"
+}
